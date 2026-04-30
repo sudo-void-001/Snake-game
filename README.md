@@ -1,2 +1,2 @@
 # Snake-game
-a basic game on python using turtle
+a basic game on python using turtle my first persentable project
