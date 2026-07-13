@@ -101,3 +101,4 @@ This project is created for learning and educational purposes.
 ---
 
 ⭐ If you found this project interesting, consider giving the repository a star!
+.
