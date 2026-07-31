@@ -72,7 +72,7 @@ snake-game/
 - Colliding with your own body resets the game.
 - Your highest score is preserved during the session.
 
-## 🧠 Concepts Practiced
+## 🧠 Concepts Practiced!
 
 This project helped practice:
 
