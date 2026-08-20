@@ -1,4 +1,4 @@
-# 🐍 Snake Game in Python
+# 🐍 Snake Game in Python           
 
 A classic Snake Game built using Python's built-in `turtle` graphics library. Control the snake, eat food, grow longer, and try to beat your high score!
 
