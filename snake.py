@@ -156,3 +156,4 @@ while True:
                       align="center", font=("Courier", 24, "normal"))
 
     time.sleep(delay)
+        
