@@ -2,7 +2,7 @@
 
 A classic Snake Game built using Python's built-in `turtle` graphics library. Control the snake, eat food, grow longer, and try to beat your high score!
 
-## 🎮 Features
+## 🎮 Features    
 
 - Classic snake gameplay
 - Real-time score tracking
@@ -10,10 +10,10 @@ A classic Snake Game built using Python's built-in `turtle` graphics library. Co
 - Random food spawning
 - Snake body growth mechanics
 - Collision detection:
-  - Border collision
+  - Border collision    
   - Self-collision
 - Smooth movement controls using WASD keys
-- Colorful UI built with Python Turtle
+- Colorful UI built with Python Turtle    
 
 ## 📸 Preview
 
